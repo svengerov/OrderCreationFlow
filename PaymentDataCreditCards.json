@@ -1,0 +1,17 @@
+{
+"CreditCard": {
+    "numberVisaNo3ds": "4111111111111111",
+	"expireMonth": "03",
+	"expireYear": "2030",
+	"cvvAccept": "737",
+	"cvvDecline": "222",
+    "number3dsAcceptOne": "4917610000000000",
+    "number3dsAcceptTwo": "4444333322221111",
+	"cvvChallenge": "999",
+    "numberVisa3dsFallback": "4212345678901237",
+    "numberVisa3dsAcceptHyp": "4000020951595032",
+	"cvvHypFrictionless": "888", 	
+    "numberMcNo3ds": "5101180000000007",
+	"numberMc3dsHyp": "5333302221254276"
+}
+}

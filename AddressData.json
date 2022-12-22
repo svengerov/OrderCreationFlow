@@ -1,0 +1,119 @@
+{
+  "Israel": {
+    "city": "Petah Tikva",
+    "streetAddress": "9 A A-Psagot",
+    "First": "Automation",
+    "Last": "TestRegression",
+    "email": "vyacheslav.vengerov@global-e.com",
+    "phone": "12345678",
+    "postIndex": "4581039",
+    "internal_country": "",
+    "RutNumber": ""
+  },
+    "Germany": {
+    "city": "Leipzig",
+    "streetAddress": "Prenzlauer Allee 72",
+    "First": "Automation",
+    "Last": "TestRegression",
+    "email": "vyacheslav.vengerov@global-e.com",
+    "phone": "12345678",
+    "postIndex": "04254",
+    "internal_country": "",
+    "RutNumber": ""
+  },
+                    "France":
+                    {
+                        "city": "Trappes",
+                        "streetAddress" : "30 avenue Jean Portalis",
+                        "postIndex" : "78190",
+						    "First": "Automation",
+							"Last": "TestRegression",
+							"email": "vyacheslav.vengerov@global-e.com",
+							"phone": "12345678",
+							"internal_country": "",
+                             "RutNumber": ""
+                        
+                    },
+                 "United States":
+                    {
+                        "city" : "New York",
+                        "streetAddress" : "861 Manchester St",
+                        "postIndex" : "10465",
+                        "internal_country" : "New York",
+						"First": "Automation",
+							"Last": "TestRegression",
+							"email": "vyacheslav.vengerov@global-e.com",
+							"phone": "12345678",
+							"RutNumber": ""
+                        
+                        
+                    },
+                 "Austria":
+                    {
+                        "city" : "Salzburg",
+                        "streetAddress" : "Holzstrasse 8",
+                        "postIndex" : "5071",
+						"First": "Automation",
+							"Last": "TestRegression",
+							"email": "vyacheslav.vengerov@global-e.com",
+							"phone": "12345678",
+							"internal_country": "",
+                             "RutNumber": "",
+                        
+                        
+                    },
+                 "Chile":
+                    {
+                        "city" : "Rm",
+                        "streetAddress" : "Calle Santa Julia 41",
+                        "postIndex" : "1240000",
+                        "RutNumber" : "208336738",
+						"First": "Automation",
+							"Last": "TestRegression",
+							"email": "vyacheslav.vengerov@global-e.com",
+							"phone": "12345678",
+							"internal_country": "",
+                             
+                        
+                        
+                    },
+                 "Canada":
+                    {
+                        "city" : "Toronto",
+                        "streetAddress" : "1 Toronto St",
+                        "internal_country" : "Ontario",
+                        "postIndex" : " M1H1A8",
+						"First": "Automation",
+							"Last": "TestRegression",
+							"email": "vyacheslav.vengerov@global-e.com",
+							"phone": "12345678",
+							"RutNumber": ""
+                        
+                    },
+                 "United Kingdom":
+                    {
+                        "city" : "London",
+                        "streetAddress" : "317 Manchester Road",
+                        "postIndex" : "W594HL",
+						"First": "Automation",
+							"Last": "TestRegression",
+							"email": "vyacheslav.vengerov@global-e.com",
+							"phone": "12345678",
+							"RutNumber": "",
+							"internal_country": "",
+                        
+                    },
+                 "Australia":
+                    {
+                        "city" : "Sydney",
+                        "streetAddress" : "31 Farm Road",
+                        "postIndex" : "4055",
+                        "internal_country" : "Australian Capital Territory",
+						"First": "Automation",
+							"Last": "TestRegression",
+							"email": "vyacheslav.vengerov@global-e.com",
+							"phone": "12345678",
+							"RutNumber": "",
+                        
+                    }
+}
